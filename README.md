@@ -1,4 +1,4 @@
-# Welcome to my collection of Simple Linux Bash Server Administration Scripts
+# Simple Linux Bash Server Administration Scripts
 
 ### Author: Mitchell Krog <mitchellkrog@gmail.com>
 ### https://github.com/mitchellkrogza
